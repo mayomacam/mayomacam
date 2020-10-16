@@ -34,7 +34,7 @@
 <a href="https://instagram.com/mayomacam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mayomacam" height="30" width="40" /></a>
 <a href="https://medium.com/@mayomacam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mayomacam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aman maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aman maurya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@mayomacam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@mayomacam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mayomacam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@mayomacam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayomacam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayomacam" height="30" width="40" /></a>
 </p>
 
