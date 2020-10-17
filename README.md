@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayomacam&label=Profile%20views&color=0e75b6&style=flat" alt="mayomacam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayomacam" alt="mayomacam" /></a> </p>
-<p align="left"> <script src="https://www.hackthebox.eu/badge/96854"></script> </p>
+![hackthebox](https://www.hackthebox.eu/badge/96854)
 <p align="left"> <a href="https://twitter.com/amanapm2676" target="blank"><img src="https://img.shields.io/twitter/follow/amanapm2676?logo=twitter&style=for-the-badge" alt="amanapm2676" /></a> </p>
 
 - 🔭 I’m currently working on [Honeypots](https://github.com/mayomacam/honeypot)
