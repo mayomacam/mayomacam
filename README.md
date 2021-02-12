@@ -19,7 +19,7 @@
 
 - 📝 I regulary write articles on [https://mayomacam.github.io/](https://mayomacam.github.io/)
 
-- 💬 Ask me about **Python, html, css , php ,js (Php and js still learning)**
+- 💬 Ask me about **Python, html, css , php ,js (Php and js still learning), django, react(still learning)**
 
 - 📫 How to reach me **amanrkt231217@gmail.com**
 
@@ -45,3 +45,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayomacam&show_icons=true" alt="mayomacam" /></p>
 
+## Current working projects
+1. keylogger*
+2. Web scrapping with python**
+3. react website*
+
+*half done or 25-30%
+** in starting phase
