@@ -7,7 +7,7 @@
 <img src="http://www.hackthebox.eu/badge/image/96854" alt="Hack The Box">
 <p align="left"> <a href="https://twitter.com/amanapm2676" target="blank"><img src="https://img.shields.io/twitter/follow/amanapm2676?logo=twitter&style=for-the-badge" alt="amanapm2676" /></a> </p>
 
-- 🔭 I’m currently working on [Honeypots](https://github.com/mayomacam/honeypot)
+- 🔭 I’m currently working on [Apps and webapps]()
 
 - 🌱 I’m currently learning **Reverse Engineering , Android, Bug Bounties, UI and many more...**
 
@@ -47,8 +47,9 @@
 
 ## Current working projects
 1. keylogger*
-2. Web scrapping with python**
-3. react website*
+2. media player*
+3. Web scrapping with python**
+4. react website*
 
 *half done or 25-30%
 ** in starting phase
