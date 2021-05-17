@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Apps and webapps]()
 
-- 🌱 I’m currently learning **Reverse Engineering , Android, Bug Bounties, UI and many more...**
+- 🌱 I’m currently learning **Reverse Engineering , Android, Bug Bounties, UI and most important game and animation..**
 
 - 👯 I’m looking to collaborate on [CTF Team](https://ctftime.org/team/110881)
 
-- 🤝 I’m looking for help with **Andriod and iot hacking**
+- 🤝 I’m looking for help with **Andriod and iot hacking, game and animation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayomacam](https://github.com/mayomacam)
 
 - 📝 I regulary write articles on [https://mayomacam.github.io/](https://mayomacam.github.io/)
 
-- 💬 Ask me about **Python, html, css , php ,js (Php and js still learning), django, react(still learning)**
+- 💬 Ask me about **Python, html, css , php ,js (Php and js still learning), django, react(still learning), blender**
 
 - 📫 How to reach me **amanrkt231217@gmail.com**
 
