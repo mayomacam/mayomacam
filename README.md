@@ -47,9 +47,9 @@
 
 ## Current working projects
 1. keylogger*
-2. media player*
+2. media player***
 3. Web scrapping with python**
-4. react website*
 
 *half done or 25-30%
 ** in starting phase
+*** improving phase
