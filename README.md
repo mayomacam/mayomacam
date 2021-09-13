@@ -47,7 +47,7 @@
 
 ## Current working projects
 1. keylogger*
-2. media player***
+2. doing htb and tryhackme
 3. Web scrapping with python**
 4. game development**
 
