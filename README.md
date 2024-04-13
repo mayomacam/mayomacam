@@ -54,3 +54,4 @@
 *half done or 25-30%
 ** in starting phase
 *** improving phase
+note:- because of some problems many things couldnt make it to github so current working projects are not accurate anymore as they may be lost
